@@ -5,7 +5,7 @@ function ATM(money, limit) {
 	for (var i = 0; i < nlen; i++) {
 		nominalsAmount[nominalArr[i]] = 0;
 	}
-	var nom = 0;
+
 	var mamount;
 	while(money) {
 		do {

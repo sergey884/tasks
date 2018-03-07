@@ -1,1 +1,0 @@
-Carrying function in Javascript. Functional programming approach. 
